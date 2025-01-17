@@ -1,15 +1,15 @@
 
 
-## Cockroft, A. 2024, Cloud PUE: Comparing AWS, Azure and GCP global regions, in The New Stack, 
+### Cockroft, A. 2024, Cloud PUE: Comparing AWS, Azure and GCP global regions, in The New Stack, 
 
-### Tags
+#### Tags
 
 cloud, pue
 
-### Link
+#### Link
 https://thenewstack.io/cloud-pue-comparing-aws-azure-and-gcp-global-regions/
 
-### Summary:
+#### Summary:
 
 PUE is often not publicly disclosed for specific cloud regions. Often this is because the region is hosted by a local service provider rather than in a dedicated datacenter, meaning it is difficult to extrapolate data from a known resource to the whole datacenter when the other resources in the datacenter are not measurable. Local service providers may not share datacenter level PUE estimates publicly as it is considered proprietary information. The post reports on the available PUE values from various regions from each of the major cloud providers and compares to the equivalent data from the previous year.
 
