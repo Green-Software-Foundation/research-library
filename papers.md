@@ -1,0 +1,217 @@
+
+# Research papers
+
+
+## Drouant et al. 2014
+
+### Tags
+
+networking, network design, green software principles
+
+### Citation
+Nicolas Drouant, Éric Rondeau, Jean- Philippe Georges, and Francis Lepage. Designing green network architectures using the ten commandments for a mature ecosystem. Computer Communications, 42:38–46, 2014
+
+### Link
+https://hal.science/hal-00953000
+
+### Summary
+
+Applies the "ten commandments" from ecology (specifically from Benyus, 2002: Biomimicry) to green network architecture design.
+
+
+## Faiz et al. 2024: LLMCarbon: Modeling the end-to-end carbon footprint of large language models.
+
+### Tags
+
+model, calculation, carbon footprint, tooling
+
+### Citation
+
+Faiz, A., Kaneda, S., Wang, R., Osi, R. 2024. Modeling the end-to-end carbon footprint of large language models. https://arxiv.org/html/2309.14393v2
+
+### Link
+
+https://arxiv.org/html/2309.14393v2
+
+### Summary
+
+Describes a model for estimating LLM carbon emissions.
+
+
+## Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
+
+### Tags
+
+BLOOM, LLM, AI, calculation, model, carbon footprint
+
+### Citation
+
+Luccioni, A.S., Viguier, S., Ligozat, A-L. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model., https://arxiv.org/abs/2211.02001
+
+### Link
+https://arxiv.org/abs/2211.02001
+
+### Summary
+
+Quantifies the carbon footprint of the BLOOM model across its life cycle, with the upper estimate being ~50.5 T.
+
+
+##  Patterson, et al., 2022. The carbon footprint of machine learning training will plateau then shrink 
+
+### Tags
+
+carbon footprint, machine learning, AI
+
+### Citation
+Patterson, D., Gonzalez, J., Hölzle, U., Le, Q., Liang, C., Munguia, L-M., Rothchild, D., So, D., Texier, M., Dean, J. 2022. The carbon footprint of machine learning training will plateau then shrink, https://arxiv.org/pdf/2204.05149
+
+### Link
+https://arxiv.org/pdf/2204.05149
+
+### Summary
+
+Describes four best poractises that can reduce energy used to train machine learning models by up to 100x and carbon emissions by 1000x. 
+
+
+
+## Radovanović et al, 2023: Carbon-aware computing for datacenters
+
+### Tags
+
+carbon awareness, data center
+
+### Citation
+Koningstein R, Schneider I, Chen B, Duarte A, Roy B, et al. Carbon-aware computing for datacenters. IEEE Trans Power Syst 2023;38(2):1270–80.
+
+### Tags
+
+carbon-aware, data center
+
+### Link
+http://dx.doi.org/10.1109/TPWRS.2022.3173250, 
+https://ieeexplore.ieee.org/document/9770383.
+
+### Summary
+
+Describes Google's system for carbon-intelligent compute management. This is a system for scheduling workloads to minimize carbon footprints.
+
+
+## Riepen et al. 2002. Spatio-temporal load shifting for truly clean computing
+
+### Tags
+
+carbon awareness, load shifting, scheduling, data centers
+
+### Citation
+Riepen, I., Brown, T., Zavala, V.M. 2024. Spatio-temporal load shifting for truly clean computing, Advances in Applied Energy, vol 17: 100202
+
+### Tags: 
+AI, carbon awareness, grid-aware, load shifting, scheduling
+
+### Link
+https://www.sciencedirect.com/science/article/pii/S2666792424000404?via%3Dihub#sec1
+
+### Summary:
+
+Load shifting between regions and times of day can be effective at reducing carbon emissions for compute tasks. The optimum strategy for time and space shifting varies between regions and times of year. Carbon efficiency also reduces cost - applying optimal load shifting strategies reduced compute cost by ~ 1.3 EUR/MWh.
+
+
+## Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector
+
+### Tags
+
+accounting, reporting, regulation, AI, carboin footprint
+
+### Citation
+
+Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector, https://arxiv.org/pdf/2410.01818
+
+### Link
+
+https://arxiv.org/pdf/2410.01818
+
+### Summary
+
+Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
+
+
+## Zheng et al. 2020. Mitigating curtailment and carbon emissions through load migration between data centers
+
+### Tags
+
+curtailment, load shifting, carbon awareness, data centers
+
+### Citation
+Zheng J, Chien AA, Suh S. Mitigating curtailment and carbon emissions through load migration between data centers. Joule 2020;4(10):2208–22.
+
+### Link:
+http://dx.doi.org/10.1016/j.joule.2020.08.001
+https://www.sciencedirect.com/science/article/pii/S2542435120303470.
+
+### Summary
+
+Load migration can reduce renewable curtailment and GHG emissions. Existing data centers in the CAISO region can reduce up to 239 KtCO2e per year. Net abatement cost can largely stay negative
+
+
+
+
+
+## Link dump
+
+Links that still need sorting and formatting
+
+
+Pazienza et al 2024 A holistic approach to sustainable computing
+https://link.springer.com/article/10.1007/s11334-023-00548-9
+
+
+EPRI Powering Intelligence - data center energy consumption report 2024
+https://www.epri.com/research/products/000000003002028905
+
+
+Varoquaux, Luccioni, Whittaker 2024
+Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI
+https://arxiv.org/pdf/2409.14160
+
+
+Wang et al (2024) e-waste challenges of generative artificial intelligence
+https://www.nature.com/articles/s43588-024-00712-6?ct=t(EMAIL_CAMPAIGN_2024-NOVEMBER-08-111)?utm_medium%3Dpodcast
+
+
+Hoffman and majuntke 2024
+Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity
+https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final109.pdf
+
+Weisner et al 2021
+Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
+https://arxiv.org/pdf/2110.13234Carbon-Aware Computing for Data Centers
+with Probabilistic Performance Guaranteesa
+
+Hall et al 2021 
+Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees
+https://arxiv.org/pdf/2410.21510
+
+Luccione et al 2021
+ESTIMATING THE CARBON FOOTPRINT OF BLOOM, A 176B PARAMETER LANGUAGE MODEL
+https://arxiv.org/pdf/2211.02001
+
+Luccione et al 2024
+Power Hungry Processing: Watts Driving the Cost of AI Deployment?
+https://arxiv.org/pdf/2311.16863
+
+
+OECD # Measuring the environmental impacts of artificial intelligence compute and applications
+https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html
+
+Bashir et al 2024 # The Climate and Sustainability Implications of Generative AI
+https://mit-genai.pubpub.org/pub/8ulgrckc/release/2
+
+
+Li et al 2023 Making AI less thirsty - uncovering the secret water footprint of AI
+https://arxiv.org/abs/2304.03271
+
+
+Ren et al 2024 Reconciling the contrasting narratives on the environmental impact of large language models, Nature Sci Reports
+https://www.nature.com/articles/s41598-024-76682-6?error=cookies_not_supported&code=1ef76dbf-5291-4fe6-8dc6-57e92d6e9550#article-info
+
+CarbonTracker: tracking and predicting the carbon footprint of training deep learning models. https://arxiv.org/pdf/2007.03051
