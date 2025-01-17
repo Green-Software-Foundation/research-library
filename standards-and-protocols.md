@@ -1,29 +1,28 @@
 # Standards and protocols
 
-### Amazon: Amazon AWS PUE methodology
+- ### Amazon: Amazon AWS PUE methodology
 
-#### Tags
-AWS, pue
+  - #### Tags
+        AWS, pue
 
-#### Link
-https://sustainability.aboutamazon.com/pue-methodology.pdf
+  - #### Link
+        https://sustainability.aboutamazon.com/pue-methodology.pdf
 
-#### Summary
-Explains how PUE is calculated for AWS sustainability report.
+  - #### Summary
+        Explains how PUE is calculated for AWS sustainability report.
 
 
-### ECO:DIGIT LCA for digital services
+- ### ECO:DIGIT LCA for digital services
 
-#### Tags
+  - #### Tags
+        LCA, life-cycle-assessment
 
-LCA, life-cycle-assessment
+  - #### Link
+        https://ecodigit.de/en/home/publications#c103126
 
-#### Link
-https://ecodigit.de/en/home/publications#c103126
+  - #### Summary
 
-#### Summary
-
-Explains a methodology for LCA accounting for digital services
+        Explains a methodology for LCA accounting for digital services
 
 
 

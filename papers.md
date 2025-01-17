@@ -2,155 +2,148 @@
 # Research papers
 
 
-### Drouant et al. 2014
+- ### Drouant et al. 2014
 
-#### Tags
+  - #### Tags
 
-networking, network design, green software principles
+        networking, network design, green software principles
 
-#### Citation
-Nicolas Drouant, Éric Rondeau, Jean- Philippe Georges, and Francis Lepage. Designing green network architectures using the ten commandments for a mature ecosystem. Computer Communications, 42:38–46, 2014
+  - #### Citation
+        Nicolas Drouant, Éric Rondeau, Jean- Philippe Georges, and Francis Lepage. Designing green network architectures using the ten commandments for a mature ecosystem. Computer Communications, 42:38–46, 2014
 
-#### Link
-https://hal.science/hal-00953000
+  - #### Link
+        https://hal.science/hal-00953000
 
-#### Summary
+  - #### Summary
 
-Applies the "ten commandments" from ecology (specifically from Benyus, 2002: Biomimicry) to green network architecture design.
+        Applies the "ten commandments" from ecology (specifically from Benyus, 2002: Biomimicry) to green network architecture design.
 
 
-### Faiz et al. 2024: LLMCarbon: Modeling the end-to-end carbon footprint of large language models.
+- ### Faiz et al. 2024: LLMCarbon: Modeling the end-to-end carbon footprint of large language models.
 
-#### Tags
+  - #### Tags
 
-model, calculation, carbon footprint, tooling
+        model, calculation, carbon footprint, tooling
 
-#### Citation
+  - #### Citation
 
-Faiz, A., Kaneda, S., Wang, R., Osi, R. 2024. Modeling the end-to-end carbon footprint of large language models. https://arxiv.org/html/2309.14393v2
+        Faiz, A., Kaneda, S., Wang, R., Osi, R. 2024. Modeling the end-to-end carbon footprint of large language models. https://arxiv.org/html/2309.14393v2
 
-#### Link
+  - #### Link
 
-https://arxiv.org/html/2309.14393v2
+        https://arxiv.org/html/2309.14393v2
 
-#### Summary
+  - #### Summary
 
-Describes a model for estimating LLM carbon emissions.
+        Describes a model for estimating LLM carbon emissions.
 
 
-### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
+- ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
 
-#### Tags
+  - #### Tags
 
-BLOOM, LLM, AI, calculation, model, carbon footprint
+        BLOOM, LLM, AI, calculation, model, carbon footprint
 
-#### Citation
+  - #### Citation
 
-Luccioni, A.S., Viguier, S., Ligozat, A-L. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model., https://arxiv.org/abs/2211.02001
+        Luccioni, A.S., Viguier, S., Ligozat, A-L. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model., https://arxiv.org/abs/2211.02001
 
-#### Link
-https://arxiv.org/abs/2211.02001
+  - #### Link
+      https://arxiv.org/abs/2211.02001
 
-#### Summary
+  - #### Summary
 
-Quantifies the carbon footprint of the BLOOM model across its life cycle, with the upper estimate being ~50.5 T.
+        Quantifies the carbon footprint of the BLOOM model across its life cycle, with the upper estimate being ~50.5 T.
 
 
-###  Patterson, et al., 2022. The carbon footprint of machine learning training will plateau then shrink 
+- ###  Patterson, et al., 2022. The carbon footprint of machine learning training will plateau then shrink 
 
-#### Tags
+  - #### Tags
 
-carbon footprint, machine learning, AI
+        carbon footprint, machine learning, AI
 
-#### Citation
-Patterson, D., Gonzalez, J., Hölzle, U., Le, Q., Liang, C., Munguia, L-M., Rothchild, D., So, D., Texier, M., Dean, J. 2022. The carbon footprint of machine learning training will plateau then shrink, https://arxiv.org/pdf/2204.05149
+  - #### Citation
+        Patterson, D., Gonzalez, J., Hölzle, U., Le, Q., Liang, C., Munguia, L-M., Rothchild, D., So, D., Texier, M., Dean, J. 2022. The carbon footprint of machine learning training will plateau then shrink, https://arxiv.org/pdf/2204.05149
 
-#### Link
-https://arxiv.org/pdf/2204.05149
+  - #### Link
+        https://arxiv.org/pdf/2204.05149
 
-#### Summary
+  - #### Summary
 
-Describes four best poractises that can reduce energy used to train machine learning models by up to 100x and carbon emissions by 1000x. 
+        Describes four best poractises that can reduce energy used to train machine learning models by up to 100x and carbon emissions by 1000x. 
 
 
 
-### Radovanović et al, 2023: Carbon-aware computing for datacenters
+- ### Radovanović et al, 2023: Carbon-aware computing for datacenters
 
-#### Tags
+  - #### Tags
 
-carbon awareness, data center
+        carbon awareness, data center
 
-#### Citation
-Koningstein R, Schneider I, Chen B, Duarte A, Roy B, et al. Carbon-aware computing for datacenters. IEEE Trans Power Syst 2023;38(2):1270–80.
+  - #### Citation
+        Koningstein R, Schneider I, Chen B, Duarte A, Roy B, et al. Carbon-aware computing for datacenters. IEEE Trans Power Syst 2023;38(2):1270–80.
 
-#### Tags
+  - #### Link
+        http://dx.doi.org/10.1109/TPWRS.2022.3173250, 
+        https://ieeexplore.ieee.org/document/9770383.
 
-carbon-aware, data center
+  - #### Summary
 
-#### Link
-http://dx.doi.org/10.1109/TPWRS.2022.3173250, 
-https://ieeexplore.ieee.org/document/9770383.
+        Describes Google's system for carbon-intelligent compute management. This is a system for scheduling workloads to minimize carbon footprints.
 
-#### Summary
 
-Describes Google's system for carbon-intelligent compute management. This is a system for scheduling workloads to minimize carbon footprints.
+- ### Riepen et al. 2002. Spatio-temporal load shifting for truly clean computing
 
+  - #### Tags
 
-### Riepen et al. 2002. Spatio-temporal load shifting for truly clean computing
+        carbon awareness, load shifting, scheduling, data centers
 
-#### Tags
+  - #### Citation
+        Riepen, I., Brown, T., Zavala, V.M. 2024. Spatio-temporal load shifting for truly clean computing, Advances in Applied Energy, vol 17: 100202
 
-carbon awareness, load shifting, scheduling, data centers
+  - #### Link
+        https://www.sciencedirect.com/science/article/pii/S2666792424000404?via%3Dihub#sec1
 
-#### Citation
-Riepen, I., Brown, T., Zavala, V.M. 2024. Spatio-temporal load shifting for truly clean computing, Advances in Applied Energy, vol 17: 100202
+  - #### Summary:
 
-#### Tags: 
-AI, carbon awareness, grid-aware, load shifting, scheduling
+        Load shifting between regions and times of day can be effective at reducing carbon emissions for compute tasks. The optimum strategy for time and space shifting varies between regions and times of year. Carbon efficiency also reduces cost - applying optimal load shifting strategies reduced compute cost by ~ 1.3 EUR/MWh.
 
-#### Link
-https://www.sciencedirect.com/science/article/pii/S2666792424000404?via%3Dihub#sec1
 
-#### Summary:
+- ### Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector
 
-Load shifting between regions and times of day can be effective at reducing carbon emissions for compute tasks. The optimum strategy for time and space shifting varies between regions and times of year. Carbon efficiency also reduces cost - applying optimal load shifting strategies reduced compute cost by ~ 1.3 EUR/MWh.
+  - #### Tags
 
+        accounting, reporting, regulation, AI, carboin footprint
 
-### Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector
+  - #### Citation
 
-#### Tags
+        Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector, https://arxiv.org/pdf/2410.01818
 
-accounting, reporting, regulation, AI, carboin footprint
+  - #### Link
 
-#### Citation
+        https://arxiv.org/pdf/2410.01818
 
-Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector, https://arxiv.org/pdf/2410.01818
+  - #### Summary
 
-#### Link
+        Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
 
-https://arxiv.org/pdf/2410.01818
 
-#### Summary
+- ### Zheng et al. 2020. Mitigating curtailment and carbon emissions through load migration between data centers
 
-Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
+  - #### Tags
 
+        curtailment, load shifting, carbon awareness, data centers
 
-### Zheng et al. 2020. Mitigating curtailment and carbon emissions through load migration between data centers
+  - #### Citation
+        Zheng J, Chien AA, Suh S. Mitigating curtailment and carbon emissions through load migration between data centers. Joule 2020;4(10):2208–22.
 
-#### Tags
+  - #### Link:
+        http://dx.doi.org/10.1016/j.joule.2020.08.001
+        https://www.sciencedirect.com/science/article/pii/S2542435120303470.
 
-curtailment, load shifting, carbon awareness, data centers
+  - #### Summary
 
-#### Citation
-Zheng J, Chien AA, Suh S. Mitigating curtailment and carbon emissions through load migration between data centers. Joule 2020;4(10):2208–22.
-
-#### Link:
-http://dx.doi.org/10.1016/j.joule.2020.08.001
-https://www.sciencedirect.com/science/article/pii/S2542435120303470.
-
-#### Summary
-
-Load migration can reduce renewable curtailment and GHG emissions. Existing data centers in the CAISO region can reduce up to 239 KtCO2e per year. Net abatement cost can largely stay negative
+        Load migration can reduce renewable curtailment and GHG emissions. Existing data centers in the CAISO region can reduce up to 239 KtCO2e per year. Net abatement cost can largely stay negative
 
 
 
