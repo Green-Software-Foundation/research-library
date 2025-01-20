@@ -141,6 +141,25 @@
         Load shifting between regions and times of day can be effective at reducing carbon emissions for compute tasks. The optimum strategy for time and space shifting varies between regions and times of year. Carbon efficiency also reduces cost - applying optimal load shifting strategies reduced compute cost by ~ 1.3 EUR/MWh.
 
 
+- ### Roque et al. 2024. Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption
+
+  - #### Tags
+
+        calculation, green computing
+
+  - #### Citation
+        Roque, E.B., Cruz, L., Durieux, T. 2024. Unveiling the Energy Vampires: A Methodology for Debugging Software Energy Consumption. https://arxiv.org/pdf/2412.10063
+
+  - #### Link
+        https://arxiv.org/pdf/2412.10063
+
+  - #### Summary:
+
+        Presents an energy debugging methodology for identifying and isolating energy consumption hotspots in software systems.
+
+
+
+
 - ### Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector
 
   - #### Tags
