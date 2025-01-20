@@ -73,6 +73,22 @@
         Describes four best poractises that can reduce energy used to train machine learning models by up to 100x and carbon emissions by 1000x. 
 
 
+- ###  Pazienza et al 2024 A holistic approach to sustainable computing 
+
+  - #### Tags
+
+        carbon footprint, green computing
+
+  - #### Citation
+        Pazienza, A., Baselli, G., Carlo, D.C., Trussoni, M.V. 2024. A holistic approach to environmentally sustainable computing. Innovations in Systems and Software Engineering, 20: 347-371, https://link.springer.com/article/10.1007/s11334-023-00548-9
+
+  - #### Link
+        https://link.springer.com/article/10.1007/s11334-023-00548-9
+
+  - #### Summary
+
+        Proposes the Environmentally Sustainable Computing framework and describes use-cases. 
+
 
 - ### Radovanović et al, 2023: Carbon-aware computing for datacenters
 
@@ -128,6 +144,25 @@
         Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
 
 
+
+- ### Wolff Anthony et al. 2007. CarbonTracker: tracking and predicting the carbon footprint of training deep learning models.
+
+  - #### Tags
+
+        calculation, accounting, 
+
+  - #### Citation
+        Wolff Anthony, L.E., Kanding, B., Selvan, R. 2007. CarbonTracker: tracking and predicting the carbon footprint of training deep learning models. https://arxiv.org/pdf/2007.03051
+
+  - #### Link:
+        https://arxiv.org/pdf/2007.03051
+
+  - #### Summary
+
+        A tool for tracking and predicting the energy and carbon footprint of training DL models
+
+
+
 - ### Zheng et al. 2020. Mitigating curtailment and carbon emissions through load migration between data centers
 
   - #### Tags
@@ -149,13 +184,13 @@
 
 
 
+
+
+
 ## Link dump
 
 Links that still need sorting and formatting
 
-
-Pazienza et al 2024 A holistic approach to sustainable computing
-https://link.springer.com/article/10.1007/s11334-023-00548-9
 
 
 EPRI Powering Intelligence - data center energy consumption report 2024
@@ -206,5 +241,3 @@ https://arxiv.org/abs/2304.03271
 
 Ren et al 2024 Reconciling the contrasting narratives on the environmental impact of large language models, Nature Sci Reports
 https://www.nature.com/articles/s41598-024-76682-6?error=cookies_not_supported&code=1ef76dbf-5291-4fe6-8dc6-57e92d6e9550#article-info
-
-CarbonTracker: tracking and predicting the carbon footprint of training deep learning models. https://arxiv.org/pdf/2007.03051
