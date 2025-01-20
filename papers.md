@@ -159,7 +159,6 @@
 
 
 
-
 - ### Tkachenko, 2024: Integrating AI’s Carbon Footprint into Risk Management Frameworks: Strategies and Tools for Sustainable Compliance in Banking Sector
 
   - #### Tags
@@ -178,6 +177,21 @@
 
         Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
 
+- ### Varoquaux et al. 2024. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI
+
+  - #### Tags
+
+        AI, carbon footprint 
+
+  - #### Citation
+        Varoquaux, G., Luccioni, A.S., Whittaker, M. 2024. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI. https://arxiv.org/pdf/2409.14160
+
+  - #### Link:
+        https://arxiv.org/pdf/2409.14160
+
+  - #### Summary
+
+        Scrutinizes the trends and trade-offs in scaling AI and refutes two common assumptions underlying the ‘bigger-is-better’ AI paradigm: 1) performance improvements result from increased scale, and 2) large-scale models are required to solve all interesting problems. The paper argues that approach is "fragile scientifically" and has negative externalities.
 
 
 - ### Wolff Anthony et al. 2007. CarbonTracker: tracking and predicting the carbon footprint of training deep learning models.
@@ -232,9 +246,7 @@ EPRI Powering Intelligence - data center energy consumption report 2024
 https://www.epri.com/research/products/000000003002028905
 
 
-Varoquaux, Luccioni, Whittaker 2024
-Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI
-https://arxiv.org/pdf/2409.14160
+
 
 
 Wang et al (2024) e-waste challenges of generative artificial intelligence
