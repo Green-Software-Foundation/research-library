@@ -1,6 +1,22 @@
 
 # Research papers
 
+- ### Alizzadeh et al. 2024: Analyzing the energy and accuracy of LLMs in software development.
+
+  - #### Tags
+
+        networking, network design, green software principles
+
+  - #### Citation
+        Alizadeh, N., Belchev, B., Saurabh, N. Kelbert, P., Castor, F. 2024. Analyzing the energy and accuracy of LLMs in software development. https://arxiv.org/pdf/2412.00329
+
+  - #### Link
+        https://arxiv.org/pdf/2412.00329
+
+  - #### Summary
+
+        Examines tradeoffs between model accuracy and energy consumption for LLMs. 
+
 
 - ### Drouant et al. 2014
 
