@@ -18,6 +18,22 @@
         Examines tradeoffs between model accuracy and energy consumption for LLMs. 
 
 
+- ### Chen et al. 2023
+
+  - #### Tags
+
+        AI, frugal AI, GPT, green computing
+
+  - #### Citation
+        Chen, L., Zaharia, M., Zou, J. 2023. FrugalGPT: how to use large language models while reducing cost and improving performance. https://arxiv.org/pdf/2305.05176
+
+  - #### Link
+        https://arxiv.org/pdf/2305.05176
+
+  - #### Summary
+        Presents and discusses three strategies that can lower the cost of LLM inference, specifically a) adapting prompts, b) LLM approximation, c) LLM cascade. The authors present an example called FrugalGPT that uses a simple LLM cascade strategy.
+        
+        
 - ### Drouant et al. 2014
 
   - #### Tags
@@ -244,9 +260,6 @@ Links that still need sorting and formatting
 
 EPRI Powering Intelligence - data center energy consumption report 2024
 https://www.epri.com/research/products/000000003002028905
-
-
-
 
 
 Wang et al (2024) e-waste challenges of generative artificial intelligence
