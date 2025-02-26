@@ -107,6 +107,25 @@
         Describes a model for estimating LLM carbon emissions.
 
 
+
+- ###  Hall, et al., 2021. Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees.
+
+  - #### Tags
+
+       carbon aware, data center
+
+  - #### Citation
+        Hall, S., Micheli, F., Belgioso, G., Radovanovic, A., Dorfler, F. 2021. Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees. https://arxiv.org/pdf/2410.21510
+
+  - #### Link
+        https://arxiv.org/pdf/2410.21510
+
+  - #### Summary
+        The authors propose using day-ahead planning and real-time job placement to reduce energy consumption in dat centers.
+  
+
+
+
 - ###  Hoffman, et al., 2024. Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity.
 
   - #### Tags
@@ -158,6 +177,26 @@
         Detailed overview of power measurement and estimation for computing, including machine learning.
 
 
+
+- ### Lee, H-P, et al. 2025. The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects   From a Survey of Knowledge Workers.
+
+  - #### Tags
+
+        Gen AI, human impacts
+
+  - #### Citation
+
+        Lee, H-P., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., Wilson, N. 2025. The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers. https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf?ref=404media.co
+
+  - #### Link
+      https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf?ref=404media.co
+
+  - #### Summary
+
+        Evidence that use of GenAI diminishes critical thinking in knowledge workers.
+
+
+
 - ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
 
   - #### Tags
@@ -175,6 +214,23 @@
 
         Quantifies the carbon footprint of the BLOOM model across its life cycle, with the upper estimate being ~50.5 T.
 
+
+- ### Luccioni et al. 2024. Power Hungry Processing: Watts Driving the Cost of AI Deployment?. 
+
+  - #### Tags
+
+        AI, power
+
+  - #### Citation
+
+        Luccioni, A.S., Jernite, Y., Strubell, E. 2024. Power Hungry Processing: Watts Driving the Cost of AI Deployment?., https://arxiv.org/pdf/2311.16863
+
+  - #### Link
+      https://arxiv.org/pdf/2311.16863
+
+  - #### Summary
+
+        The authors measure the amount of energy and carbon required to perform 1000 inferences using several models. They find that multi-purpose generative architectures are far mor expensive than task specific versions. They caution that model utility should be "more intentionally weighed against increased costs in terms of energy and emissions".
 
 
 - ###  Patterson, et al., 2022. The carbon footprint of machine learning training will plateau then shrink 
@@ -261,6 +317,25 @@
   - #### Summary:
 
         Presents an energy debugging methodology for identifying and isolating energy consumption hotspots in software systems.
+
+
+
+- ### Tasdelen et al. 2024. Enhancing green computing through energy-aware training: an early stopping perspective
+
+  - #### Tags
+
+        green computing
+
+  - #### Citation
+        Tasdelen, A., Enhancing green computing through energy-aware training: an early stopping perspective., Current Trends in Computing, Vol 2, 2: 108-139.
+
+  - #### Link
+        https://dergipark.org.tr/en/download/article-file/4407207
+
+  - #### Summary:
+
+        This study examines energy efficient model training strategies and particularly highlights the role of early-stopping.
+
 
 
 
@@ -352,18 +427,6 @@ Weisner et al 2021
 Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
 https://arxiv.org/pdf/2110.13234Carbon-Aware Computing for Data Centers
 with Probabilistic Performance Guaranteesa
-
-Hall et al 2021 
-Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees
-https://arxiv.org/pdf/2410.21510
-
-Luccione et al 2021
-ESTIMATING THE CARBON FOOTPRINT OF BLOOM, A 176B PARAMETER LANGUAGE MODEL
-https://arxiv.org/pdf/2211.02001
-
-Luccione et al 2024
-Power Hungry Processing: Watts Driving the Cost of AI Deployment?
-https://arxiv.org/pdf/2311.16863
 
 
 OECD # Measuring the environmental impacts of artificial intelligence compute and applications
