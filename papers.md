@@ -28,7 +28,8 @@
         LLM, AI
 
   - #### Citation
-        Alizadeh, N., Belchev, B., Saurabh, N. Kelbert, P., Castor, F. 2024. Analyzing the energy and accuracy of LLMs in software development. https://arxiv.org/pdf/2412.00329
+        Alizadeh, N., Belchov, B., Saurabh, N., Kelbert, P., Castor, F. 2025. Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy. https://arxiv.org/abs/2412.00329
+
 
   - #### Link
         https://arxiv.org/pdf/2412.00329
