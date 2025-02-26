@@ -109,6 +109,22 @@
         The authors analyzed the differences between eight different LLMs. They find that they can classify and route prompts to the most energy efficient LLM in a federation of LLMs.
   
 
+- ### Huang and Gopal, 2025. Green AI - a multidisciplinary approach to sustainability.
+
+  - #### Tags
+
+        AI
+
+  - #### Citation
+        Huang, J., Gopal, S. 2025. Green AI - a multidisciplinary approach to sustainability. Environmental Science and Ecotechnology, Vol 24, 100536.
+
+  - #### Link
+        https://www.sciencedirect.com/science/article/pii/S2666498425000146?via%3Dihub
+
+  - #### Summary:
+
+        Correspondence article proposing framework for Green AI.
+
 
 - ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
 
