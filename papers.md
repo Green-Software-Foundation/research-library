@@ -20,7 +20,6 @@
 
 
 
-
 - ### Alizadeh et al. 2025: Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy.
 
   - #### Tags
@@ -40,9 +39,23 @@
         Quantized versions of models can be both more efficient and more accurate compared to full-precision versions of medium sized models. No single model is suitable for all tasks in software development.
 
 
+- ### Bashir et al. 2023. The Climate and Sustainability Implications of Generative AI
 
+  - #### Tags
 
-- ### Chen et al. 2023
+        AI, genAI
+
+  - #### Citation
+        Bashir, N., Donti, P., Cuff, J., Sroka, S., Ilic, M., Sze, V., Delimitrou, C., Olivetti, E. 2023. The climate and sustainability implications of Generative AI. An MIT Exploration of Generative AI, March. https://doi.org/10.21428/e4baedd9.9070dfe7.
+
+  - #### Link
+        https://mit-genai.pubpub.org/pub/8ulgrckc/release/2
+
+  - #### Summary
+        An evaluation of our currently unsustainable approach toward Gen-AI’s development, underlining the importance of assessing technological advancement alongside the resulting social and environmental impacts.
+        
+
+- ### Chen et al. 2023 FrugalGPT: how to use large language models while reducing cost and improving performance
 
   - #### Tags
 
@@ -125,6 +138,24 @@
   - #### Summary:
 
         Correspondence article proposing framework for Green AI.
+
+
+
+- ### Jagannadharao et al. 2024. A beginner's guide to power and energy measurement and estimation for computing and machine learning.
+
+  - #### Tags
+
+        power, measurement, models
+
+  - #### Citation
+        Jagannadharao, A., Beckage, N., Biswas, S., Egan, H., Gafur, J., Metsch, T., Nafus, D., Raffa, G., Tripp, C. 2024. A beginner's guide to power and energy measurement and estimation for computing and machine learning. https://arxiv.org/pdf/2412.17830.
+
+  - #### Link
+        https://arxiv.org/pdf/2412.17830
+
+  - #### Summary:
+
+        Detailed overview of power measurement and estimation for computing, including machine learning.
 
 
 - ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
@@ -317,13 +348,6 @@
 Links that still need sorting and formatting
 
 
-
-EPRI Powering Intelligence - data center energy consumption report 2024
-https://www.epri.com/research/products/000000003002028905
-
-
-
-
 Weisner et al 2021
 Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
 https://arxiv.org/pdf/2110.13234Carbon-Aware Computing for Data Centers
@@ -344,9 +368,6 @@ https://arxiv.org/pdf/2311.16863
 
 OECD # Measuring the environmental impacts of artificial intelligence compute and applications
 https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html
-
-Bashir et al 2024 # The Climate and Sustainability Implications of Generative AI
-https://mit-genai.pubpub.org/pub/8ulgrckc/release/2
 
 
 Li et al 2023 Making AI less thirsty - uncovering the secret water footprint of AI

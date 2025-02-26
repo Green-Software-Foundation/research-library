@@ -49,6 +49,10 @@ Product Environmental Footprint (PEF) standard
 https://wayback.archive-it.org/12090/20230313054137/https://ec.europa.eu/environment/archives/eussd/pdf/footprint/PEF%20methodology%20final%20draft.pdf
 
 
+EPRI Powering Intelligence - data center energy consumption report 2024
+https://www.epri.com/research/products/000000003002028905
+
+
 AWS sustainability best practises
 https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/sus_sus_dev_a4.html
 
