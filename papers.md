@@ -1,7 +1,8 @@
 
 # Research papers
 
-- ### Alizzadeh et al. 2024: Analyzing the energy and accuracy of LLMs in software development.
+
+- ### Alizadeh et al. 2024: Analyzing the energy and accuracy of LLMs in software development.
 
   - #### Tags
 
@@ -16,6 +17,28 @@
   - #### Summary
 
         Examines tradeoffs between model accuracy and energy consumption for LLMs. 
+
+
+
+
+- ### Alizadeh et al. 2025: Language Models in Software Development Tasks: An Experimental Analysis of Energy and Accuracy.
+
+  - #### Tags
+
+        LLM, AI
+
+  - #### Citation
+        Alizadeh, N., Belchev, B., Saurabh, N. Kelbert, P., Castor, F. 2024. Analyzing the energy and accuracy of LLMs in software development. https://arxiv.org/pdf/2412.00329
+
+  - #### Link
+        https://arxiv.org/pdf/2412.00329
+
+  - #### Summary
+
+        Exploration of the trade-offs between model accuracy and energy consumption. The main findings are  that higher energy coinsumption does not always lead to higher accuracy.
+        Quantized versions of models can be both more efficient and more accurate compared to full-precision versions of medium sized models. No single model is suitable for all tasks in software development.
+
+
 
 
 - ### Chen et al. 2023
@@ -70,6 +93,23 @@
         Describes a model for estimating LLM carbon emissions.
 
 
+- ###  Hoffman, et al., 2024. Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity.
+
+  - #### Tags
+
+        carbon footprint, machine learning, AI
+
+  - #### Citation
+        Hoffman, G-D., Majuntke, V. 2024. Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity. HotCarbon’24, July 9, 2024, Santa Cruz, CA. https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final109.pdf
+
+  - #### Link
+        https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final109.pdf
+
+  - #### Summary
+        The authors analyzed the differences between eight different LLMs. They find that they can classify and route prompts to the most energy efficient LLM in a federation of LLMs.
+  
+
+
 - ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
 
   - #### Tags
@@ -86,6 +126,7 @@
   - #### Summary
 
         Quantifies the carbon footprint of the BLOOM model across its life cycle, with the upper estimate being ~50.5 T.
+
 
 
 - ###  Patterson, et al., 2022. The carbon footprint of machine learning training will plateau then shrink 
@@ -193,6 +234,7 @@
 
         Examines the integration of AI carbon emissions into risk management frameworks in banking. The paper describes how banks can identify, assess, and mitigate the carbon emissions associated with AI within their riskmanagement frameworks, including choosing energy-efficient models, using green cloud computing, and implementing lifecycle management. Advocates aligning with global standards and points out how this can ease regulatory compliance.
 
+
 - ### Varoquaux et al. 2024. Hype, Sustainability, and the Price of the Bigger-is-Better Paradigm in AI
 
   - #### Tags
@@ -208,6 +250,7 @@
   - #### Summary
 
         Scrutinizes the trends and trade-offs in scaling AI and refutes two common assumptions underlying the ‘bigger-is-better’ AI paradigm: 1) performance improvements result from increased scale, and 2) large-scale models are required to solve all interesting problems. The paper argues that approach is "fragile scientifically" and has negative externalities.
+
 
 
 - ### Wolff Anthony et al. 2007. CarbonTracker: tracking and predicting the carbon footprint of training deep learning models.
@@ -262,13 +305,7 @@ EPRI Powering Intelligence - data center energy consumption report 2024
 https://www.epri.com/research/products/000000003002028905
 
 
-Wang et al (2024) e-waste challenges of generative artificial intelligence
-https://www.nature.com/articles/s43588-024-00712-6?ct=t(EMAIL_CAMPAIGN_2024-NOVEMBER-08-111)?utm_medium%3Dpodcast
 
-
-Hoffman and majuntke 2024
-Improving Carbon Emissions of Federated Large Language Model Inference through Classification of Task-Specificity
-https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final109.pdf
 
 Weisner et al 2021
 Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
