@@ -71,7 +71,6 @@
         The paper aims to analyze the measurement of the carbon footprint of 1,417 ML models and associated datasets on Hugging Face, which is the most popular repository for pretrained ML models
         
 
-
 - ### Chen et al. 2023 FrugalGPT: how to use large language models while reducing cost and improving performance
 
   - #### Tags
@@ -87,6 +86,23 @@
   - #### Summary
         Presents and discusses three strategies that can lower the cost of LLM inference, specifically a) adapting prompts, b) LLM approximation, c) LLM cascade. The authors present an example called FrugalGPT that uses a simple LLM cascade strategy.
         
+
+- ### Domingo-Reguero et al. 2025: Energy-efficient neural network training through runtime layer freezing, model quantization, and early stopping
+
+  - #### Tags
+
+        early stopping, AI, carbon, quantization
+
+  - #### Citation
+        Domingo-Reguero, A., Martinez-Fernandez, S., Verdecchia, R. 2025. Energy-efficient neural network training through runtime layer freezing, model quantization, and early stopping. Computer Standards and Interfaces, vol 92:103906.
+
+  - #### Link
+        https://www.sciencedirect.com/science/article/pii/S0920548924000758?via%3Dihub
+
+  - #### Summary
+        Early stopping is the best tested method to save energy with minimal accuracy effect.
+
+
         
 - ### Drouant et al. 2014
 
@@ -124,8 +140,7 @@
         Describes a model for estimating LLM carbon emissions.
 
 
-
-- ###  Gonzalez Alvarez, 2024. Impact of ML optimization tactics on greener pre-trained ML models.
+- ###  Gonzalez-Alvarez, 2024. Impact of ML optimization tactics on greener pre-trained ML models.
 
   - #### Tags
 
@@ -334,7 +349,6 @@
   - #### Summary
 
         Describes Google's system for carbon-intelligent compute management. This is a system for scheduling workloads to minimize carbon footprints.
-
 
 
 - ### Ren et al. 2024: Reconciling the contrasting narratives on the environmental impact of large language models
