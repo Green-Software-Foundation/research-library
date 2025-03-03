@@ -196,6 +196,28 @@
         Evidence that use of GenAI diminishes critical thinking in knowledge workers.
 
 
+Li et al 2023 Making AI less thirsty - uncovering the secret water footprint of AI
+https://arxiv.org/abs/2304.03271
+
+
+- ### Li et al. 2023. Making AI less thirsty - uncovering the secret water footprint of AI.
+
+  - #### Tags
+
+        AI, water
+
+  - #### Citation
+
+        Li, P., Yang, J., Islam, M., Ren, S., 2023. Making AI less thirsty - uncovering the secret water footprint of AI. https://arxiv.org/abs/2304.03271
+
+  - #### Link
+      https://arxiv.org/abs/2304.03271
+
+  - #### Summary
+
+        Position paper explaining the need to include water in environmental imapct assessments for AI.
+
+
 
 - ### Luccioni et al. 2022. Estimating the Carbon Footprint of BLOOM, a 176B Parameter Language Model. 
 
@@ -283,6 +305,25 @@
   - #### Summary
 
         Describes Google's system for carbon-intelligent compute management. This is a system for scheduling workloads to minimize carbon footprints.
+
+
+
+- ### Ren et al. 2024: Reconciling the contrasting narratives on the environmental impact of large language models
+
+  - #### Tags
+
+        carbon awareness, data center
+
+  - #### Citation
+        Ren et al 2024 Reconciling the contrasting narratives on the environmental impact of large language models, Sci Rep 14, 26310 (2024). https://doi.org/10.1038/s41598-024-76682-6
+
+  - #### Link
+        https://www.nature.com/articles/s41598-024-76682-6?error=cookies_not_supported&code=1ef76dbf-5291-4fe6-8dc6-57e92d6e9550#article-info
+
+  - #### Summary
+
+        Compares human and AI carbon emissions and discusses contrasting narratives.
+
 
 
 - ### Riepen et al. 2002. Spatio-temporal load shifting for truly clean computing
@@ -376,6 +417,31 @@
 
 
 
+
+Weisner et al 2021
+Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
+https://arxiv.org/pdf/2110.13234Carbon-Aware Computing for Data Centers
+with Probabilistic Performance Guaranteesa
+
+
+- ### Weisner, P., et al. 2021. Let's wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud.
+
+  - #### Tags
+
+        scheduling, cloud, carbon-aware 
+
+  - #### Citation
+        Weisner, P., Behnke, I., Scheinert, D., Gontarska, K., Thamsen, L. 2021. Let's wait awhile: how temporal workload shifting can reduce carbon emissions in the cloud., https://arxiv.org/pdf/2110.13234
+
+  - #### Link:
+        https://arxiv.org/pdf/2110.13234
+
+  - #### Summary
+
+        The authors examine the potential impact of shifting computational workloads towards times where the energy supply is expected to be less carbon-intensive.
+
+
+
 - ### Wolff Anthony et al. 2007. CarbonTracker: tracking and predicting the carbon footprint of training deep learning models.
 
   - #### Tags
@@ -420,22 +486,6 @@
 
 ## Link dump
 
-Links that still need sorting and formatting
+Links that still need sorting and formatting:
 
-
-Weisner et al 2021
-Let’s Wait Awhile: How Temporal Workload Shifting Can Reduce Carbon Emissions in the Cloud
-https://arxiv.org/pdf/2110.13234Carbon-Aware Computing for Data Centers
-with Probabilistic Performance Guaranteesa
-
-
-OECD # Measuring the environmental impacts of artificial intelligence compute and applications
-https://www.oecd.org/en/publications/measuring-the-environmental-impacts-of-artificial-intelligence-compute-and-applications_7babf571-en.html
-
-
-Li et al 2023 Making AI less thirsty - uncovering the secret water footprint of AI
-https://arxiv.org/abs/2304.03271
-
-
-Ren et al 2024 Reconciling the contrasting narratives on the environmental impact of large language models, Nature Sci Reports
-https://www.nature.com/articles/s41598-024-76682-6?error=cookies_not_supported&code=1ef76dbf-5291-4fe6-8dc6-57e92d6e9550#article-info
+...
