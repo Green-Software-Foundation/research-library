@@ -55,6 +55,23 @@
         An evaluation of our currently unsustainable approach toward Gen-AI’s development, underlining the importance of assessing technological advancement alongside the resulting social and environmental impacts.
         
 
+- ### Castano et al. 2023. Exploring the carbon footprint of Hugging Face's ML models: a repository mining study.
+
+  - #### Tags
+
+        AI, Hugging Face, carbon
+
+  - #### Citation
+        Castano, J., Martinez-Fernandez, S., Franch, X., Bogner, J. 2023. Exploring the carbon footprint of Hugging Face's ML models: a repository mining study. https://arxiv.org/abs/2305.11164
+
+  - #### Link
+        https://arxiv.org/abs/2305.11164
+
+  - #### Summary
+        The paper aims to analyze the measurement of the carbon footprint of 1,417 ML models and associated datasets on Hugging Face, which is the most popular repository for pretrained ML models
+        
+
+
 - ### Chen et al. 2023 FrugalGPT: how to use large language models while reducing cost and improving performance
 
   - #### Tags
@@ -107,6 +124,22 @@
         Describes a model for estimating LLM carbon emissions.
 
 
+
+- ###  Gonzalez Alvarez, 2024. Impact of ML optimization tactics on greener pre-trained ML models.
+
+  - #### Tags
+
+       AI, image classification, carbon
+
+  - #### Citation
+        Gonzalez Alvarez, A., Castano, J., Franch, X., Martinez-Fernandez, S. 2024. Impact of ML optimization tactics on greener pre-trained ML models. https://arxiv.org/pdf/2409.12878.
+
+  - #### Link
+        https://arxiv.org/pdf/2409.12878
+
+  - #### Summary
+        This study aims to analyze image classification datasets and pretrained models, improve inference efficiency by comparing optimized and non-optimized models, and assess the economic impact of the optimizations.
+  
 
 - ###  Hall, et al., 2021. Carbon-Aware Computing for Data Centers with Probabilistic Performance Guarantees.
 
@@ -194,10 +227,6 @@
   - #### Summary
 
         Evidence that use of GenAI diminishes critical thinking in knowledge workers.
-
-
-Li et al 2023 Making AI less thirsty - uncovering the secret water footprint of AI
-https://arxiv.org/abs/2304.03271
 
 
 - ### Li et al. 2023. Making AI less thirsty - uncovering the secret water footprint of AI.
