@@ -502,6 +502,24 @@ with Probabilistic Performance Guaranteesa
         A tool for tracking and predicting the energy and carbon footprint of training DL models
 
 
+- ### Wu et al. 2025. Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View
+
+  - #### Tags
+
+        ai, LLMs, functional unit
+
+  - #### Citation
+        Wu, Y., Hua, I., Ding, Y. 2025. Unveiling Environmental Impacts of Large Language Model Serving: A Functional Unit View. https://arxiv.org/pdf/2502.11256
+
+  - #### Link:
+        https://arxiv.org/pdf/2502.11256
+
+
+  - #### Summary
+
+        The authors propose a framework called FUEL, a functional unit-based way to assess the environmental impact of serving LLMs.
+
+
 
 - ### Zheng et al. 2020. Mitigating curtailment and carbon emissions through load migration between data centers
 
